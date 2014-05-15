@@ -1,0 +1,29 @@
+{
+  "name": "cloc2json",
+  "version": "0.0.1",
+  "description": "convert csv output from cloc to json",
+  "main": "bin/cmd.js",
+  "bin": {
+    "cloc2json": "cmd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mavjs/nodejs-cloc2json"
+  },
+  "keywords": [
+    "cloc",
+    "csv",
+    "json",
+    "data",
+    "visualization"
+  ],
+  "author": "Ye Myat Kaung (Maverick)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavjs/nodejs-cloc2json/issues"
+  },
+  "homepage": "https://github.com/mavjs/nodejs-cloc2json"
+}
