@@ -20,7 +20,11 @@
     "data",
     "visualization"
   ],
-  "author": "Ye Myat Kaung (Maverick)",
+  "author": {
+    "name": "Ye Myat Kaung (Maverick)",
+    "email": "mavjs@mavjs.org",
+    "url": "http://mavjs.org"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mavjs/nodejs-cloc2json/issues"
