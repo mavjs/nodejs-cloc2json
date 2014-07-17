@@ -1,6 +1,6 @@
 {
   "name": "cloc2json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert csv output from cloc to json",
   "main": "index.js",
   "bin": {
@@ -23,7 +23,7 @@
   "author": {
     "name": "Ye Myat Kaung (Maverick)",
     "email": "mavjs@mavjs.org",
-    "url": "http://mavjs.org"
+    "url": "http://wwww.mavjs.org"
   },
   "license": "MIT",
   "bugs": {
